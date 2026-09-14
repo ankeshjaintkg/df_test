@@ -1,0 +1,15 @@
+{
+	"name": "dfpro25-df",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "c78de9de-dea6-432f-9f6c-aae32c57d6d6",
+		"tenantId": "d1bd56f7-d385-479e-9356-18ad6cd7bf71"
+	}
+}
